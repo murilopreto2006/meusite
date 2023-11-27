@@ -2,3 +2,9 @@ body{
     color: black;
     background-color: rgb(228, 228, 184);
 }
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
